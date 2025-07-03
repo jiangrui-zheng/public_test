@@ -1,0 +1,3 @@
+{
+    "github_token": "ghp_dummy_token_1234567890abcdef"
+}
